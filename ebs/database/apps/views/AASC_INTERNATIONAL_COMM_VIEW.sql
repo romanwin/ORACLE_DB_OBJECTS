@@ -14,6 +14,7 @@ SELECT
 --  1.0  7.11.13       yuval tak         CR-1109 Ship Console- Adjust item description view
 --  2.0  29/09/2021    Roman W.          GitHub first change in View
 --  2.1  29/09/2021    Roman W.          GitHub first change in View 2
+--  2.1  29/09/2021    Roman W.          GitHub first change in View 3
 --------------------------------------------------------------------
 
        wnd.delivery_id delivery_id,
