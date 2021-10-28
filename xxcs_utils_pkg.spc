@@ -24,7 +24,7 @@ CREATE OR REPLACE PACKAGE xxcs_utils_pkg IS
   --                                                 Procedure Name : Update_upg_instance_id
   --  2.0   13/08/2017     Adi Safin      CHG0040196 - add parameter to get_contract_entitlement  Support features lookup (like Voxel) and update salesforce interface in update_upg_instance_id procedure
   --  1.0   28/10/2021     Roman W.       CHG0050862 - New Qualifiers of Asset serial number   
-  --
+  --                                                     added new function "get_item_number_by_serial"
   -----------------------------------------------------------------------
 
   FUNCTION get_last_assignee(p_incident_id NUMBER, p_source_name VARCHAR2)

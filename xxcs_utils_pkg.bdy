@@ -33,7 +33,7 @@ CREATE OR REPLACE PACKAGE BODY xxcs_utils_pkg IS
   --  2.6  02.02.2020     Yuval Tal       CHG0047309 - update update_upg_instance_id
   --  2.7  5/11/2021      Yuval tal       CHG0049822 - modify update_upg_instance_id
   --  2.3  28/10/2021     Roman W.        CHG0050862 - New Qualifiers of Asset serial number 
-  --
+  --                                                      added new function "get_item_number_by_serial"
   --------------------------------------------------------------------
 
   -----------------------------------------------------------------------
