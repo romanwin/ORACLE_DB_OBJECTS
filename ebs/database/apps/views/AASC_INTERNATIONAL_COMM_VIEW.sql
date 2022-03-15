@@ -15,6 +15,7 @@ SELECT
 --  2.0  29/09/2021    Roman W.          GitHub first change in View
 --  2.1  29/09/2021    Roman W.          GitHub first change in View 2
 --  2.1  29/09/2021    Roman W.          GitHub first change in View 3
+--  2.2  ---------------------------- My Test ----------------------
 --------------------------------------------------------------------
 
        wnd.delivery_id delivery_id,
